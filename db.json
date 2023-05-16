@@ -1,0 +1,59 @@
+{
+    "aromas": [
+        {
+            "id": 3,
+            "for": 1,
+            "number": 9,
+            "title": "Очень длинное название женского парфюма",
+            "price": 150,
+            "accords": ["Фруктовый", "Сладкий", "Кожанный", "Дымный"],
+            "season": 1,
+            "purpose": 1,
+            "visibility": 1,
+            "notes": [
+                {
+                    "title": "Ноты сердца",
+                    "note": [
+                        {
+                            "title": "Бергамот",
+                            "img": "https://priroda.club/uploads/posts/2022-01/thumbs/1643606235_84-priroda-club-p-bergamot-trava-priroda-krasivo-foto-96.jpg"
+                        },
+                        {
+                            "title": "Ананас",
+                            "img": "https://klike.net/uploads/posts/2022-08/1661071250_5-60.jpg"
+                        }
+                    ]
+                }
+            ],
+            "image": "https://avatars.mds.yandex.net/get-mpic/4012150/img_id6403750884465699920.jpeg/orig"
+        },
+        {
+            "id": 3,
+            "for": 2,
+            "number": 9,
+            "title": "Второй",
+            "price": 150,
+            "accords": ["Фруктовый", "Сладкий", "Кожанный", "Дымный"],
+            "season": 2,
+            "purpose": 2,
+            "visibility": 2,
+            "notes": [
+                {
+                    "title": "Ноты сердца",
+                    "note": [
+                        {
+                            "title": "Бергамот",
+                            "img": "https://priroda.club/uploads/posts/2022-01/thumbs/1643606235_84-priroda-club-p-bergamot-trava-priroda-krasivo-foto-96.jpg"
+                        },
+                        {
+                            "title": "Ананас",
+                            "img": "https://klike.net/uploads/posts/2022-08/1661071250_5-60.jpg"
+                        }
+                    ]
+                }
+            ],
+            "image": "https://avatars.mds.yandex.net/get-mpic/4012150/img_id6403750884465699920.jpeg/orig"
+        }
+    ]
+}
+
